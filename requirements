@@ -6,3 +6,8 @@ matplotlib
 seaborn
 torch
 h5py
+shutil
+biopython
+collection
+iterools
+gzip
