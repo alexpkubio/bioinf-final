@@ -1,0 +1,2 @@
+cnnmodel_light 是较轻量化的预测模型代码，其在处理数据时Loss一般较大
+cnnmodel_more_complexity 是增加了层数的模型代码，处理数据时Loss较低
