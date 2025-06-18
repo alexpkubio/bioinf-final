@@ -1,9 +1,8 @@
-requirements list： numpy
+requirements list： 
+numpy
 pandas
 scikit-learn
 matplotlib 
 seaborn
 torch
-torchvision
-biopython 
-pyfaidx
+h5py
